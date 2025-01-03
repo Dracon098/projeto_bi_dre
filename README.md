@@ -54,7 +54,9 @@ O **Dashboard DRE** (Demonstração do Resultado do Exercício) foi desenvolvido
 ## 🏆 **Conclusão**
 O dashboard DRE em Power BI é uma ferramenta indispensável para gestores, investidores e stakeholders, oferecendo uma análise detalhada da saúde financeira. Este projeto demonstra minha capacidade de transformar dados financeiros complexos em insights acionáveis, utilizando o **Power BI**.
 
-![Segunda Página](https://github.com/user-attachments/assets/c12a1b46-4fcc-4675-8f3e-3e310e61eb68)
+![Segunda Pagina](https://github.com/user-attachments/assets/b66ad08a-da0e-4b49-aa45-a276dc5ff976)
+
+
 
 ---
 
